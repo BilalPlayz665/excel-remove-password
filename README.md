@@ -36,6 +36,12 @@ Example:
 remove_password.exe encrypted.xlsx mypassword decrypted.xlsx
 ```
 
+Also:
+```sh
+remove_password.exe "c:\folder name\encrypted file.xlsx" mypassword "c:\folder name\decrypted file.xlsx"
+```
+
+
 ## Creating an Executable (EXE)
 To create a standalone `.exe` file, use PyInstaller:
 ```sh
