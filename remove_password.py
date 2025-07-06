@@ -1,4 +1,4 @@
-import msoffcrypto
+import msoffcrypto-tool
 import sys
 import io
 import os
